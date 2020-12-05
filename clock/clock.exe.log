@@ -1,0 +1,33 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\Acer\Desktop\clock\clock.exe, файл: C:\Users\Acer\Desktop\clock\TXLib.h, строка: 12685, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+
+#1: TXLib [Ver: 00173a, Rev: 168, Date: 2020-08-13 00:46:05 +0400], Instance: 0x00000000004418E0 (64-bit), Flags: CMdrE0, Thread: 0x2EA0 (Main), GetLastError(): 13 (???????????? ??????). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x000000000040ABE8 in C:\Users\Acer\Desktop\clock\clock.exe: (anonymous namespace)::TX::_txError()
+# 1 0x0000000000413ABE in C:\Users\Acer\Desktop\clock\clock.exe: (anonymous namespace)::TX::txClear()
+# 2 0x000000000041DB53 in C:\Users\Acer\Desktop\clock\clock.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 168, Date: 2020-08-13 00:46:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\Acer\Desktop\clock\TXLib.h
+Compiled:	Dec  5 2020 17:23:04, GNU g++ 8.1.0, std=201402L, MinGW-W64 Runtime 6.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Dec 05 2020 17:23:08
+
+Run file:	C:\Users\Acer\Desktop\clock\clock.exe
+Directory:	C:\Users\Acer\Desktop\clock
+
+--------------------------------------------------
