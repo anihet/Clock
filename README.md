@@ -1,4 +1,4 @@
 # Clock
-working clock
+Working clock
 
-this clock was do with help TXlib and cycles
+This clock was do with help TXlib and cycles
