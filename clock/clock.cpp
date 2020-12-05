@@ -1,6 +1,5 @@
 #include "TXLib.h"
 #include "cmath"
-#include "iostream"
 
 int ugol = 180;
 int ugol2 = 180;
